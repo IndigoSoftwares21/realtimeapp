@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>402584765880-kldmmktmj1853a3e3rl5tgc2lpehsro2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402584765880-kldmmktmj1853a3e3rl5tgc2lpehsro2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjcCaKJC6Xkn3-YQuO9ZqfDoynvYXQh0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402584765880</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.realtimeapp</string>
+	<key>PROJECT_ID</key>
+	<string>test-flutter-realtime</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-flutter-realtime.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402584765880:ios:aa7bee3d86d8ff6ae2fb4d</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-flutter-realtime-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
